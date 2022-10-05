@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f6eec922b4cf590d18bd491f9c068322\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_hdmi_test_device_screen.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_hdmi_test_device_screen.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_mhl_eye.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\mhl_eye.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_accel_portrait.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\accel_portrait.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_accel_port_back.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\accel_port_back.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_gyro_accel.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_gyro_accel.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_gyro_axis_y.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\gyro_axis_y.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_accel_port_vol_dir.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\accel_port_vol_dir.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f6eec922b4cf590d18bd491f9c068322\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_mhl_girl.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\mhl_girl.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_accel_portrait_inv.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\accel_portrait_inv.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f6eec922b4cf590d18bd491f9c068322\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\xml_oreo_static_shortcuts.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\xml\\oreo_static_shortcuts.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_camera_test.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_camera_test.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_reparo.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable-mdpi\\reparo.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\xml_device_policies.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\xml\\device_policies.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_gyro_axis_z.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\gyro_axis_z.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_reparo.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable-hdpi\\reparo.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f6eec922b4cf590d18bd491f9c068322\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_reparo.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable-xxhdpi\\reparo.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_touchprecision_test.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_touchprecision_test.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f6eec922b4cf590d18bd491f9c068322\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f6eec922b4cf590d18bd491f9c068322\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_accel_port_front.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\accel_port_front.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f6eec922b4cf590d18bd491f9c068322\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_colorbars_test.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_colorbars_test.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_brightness_test.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_brightness_test.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f6eec922b4cf590d18bd491f9c068322\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_touchpanel_test.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_touchpanel_test.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f6eec922b4cf590d18bd491f9c068322\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_hardware_keys.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_hardware_keys.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_projector_test.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_projector_test.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_gyro_axis_x.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\gyro_axis_x.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_reparo.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable-xhdpi\\reparo.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable_accel_port_vol_esq.png.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\drawable\\accel_port_vol_esq.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_item_keyevent_text.xml.flat",
+        "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\layout\\activity_item_keyevent_text.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\59808\\.gradle\\caches\\transforms-2\\files-2.1\\f984d0f22e1474b7f804c403847a34f7\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]

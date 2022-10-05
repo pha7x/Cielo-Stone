@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="windowTitleBackgroundStyle">
+        <item name="android:background">@color/positivo_color</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="MyActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/positivo_color</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="FullscreenTheme" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleBackgroundStyle">@style/windowTitleBackgroundStyle</item>
+        <item name="android:windowBackground">@null</item>
+        <!--<item name="metaButtonBarStyle">@style/ButtonBar</item>
+        <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>-->
+    </style>
+
+    <!--<style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@color/positivo_color</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>-->
+
+    <!-- Local copy of android:Theme.Holo.Dialog.Alert
+    (http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/) -->
+    <style name="CustomDialogTheme" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowTitleStyle">@style/PositivoDialogWindowTitle</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+    </style>
+
+    <style name="CustomTransparentDialogTheme" parent="CustomDialogTheme">
+    </style>
+
+    <!-- Local copy of TextAppearance.Holo.Light.DialogWindowTitle -->
+    <style name="TextAppearanceDialogWindowTitle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/positivo_color</item>
+    </style>
+
+    <!-- Local copy of android:DialogWindowTitle.Holo -->
+    <style name="PositivoDialogWindowTitle">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textAppearance">@style/TextAppearanceDialogWindowTitle</item>
+    </style>
+
+    <!--<style name="ButtonBarButton">
+        <item name="android:textColor">@color/positivo_color</item>
+    </style>-->
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowTitleBackgroundStyle">@style/windowTitleBackgroundStyle</item>
+        <item name="android:alertDialogTheme">@style/CustomDialogTheme</item>
+    </style>
+
+</resources>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.positivo.androidtestframework"
+    android:launchMode="singleInstance"
+    android:versionCode="51"
+    android:versionName="6.0.cielo" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="24" />
+    <!-- android:sharedUserId="android.uid.system"> -->
+
+    <uses-permission android:name="android.perm ission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+    <uses-permission android:name="android.permission.HARDWARE_TEST" />
+    <uses-permission android:name="android.permission.FACTORY_TEST" />
+    <uses-permission android:name="android.permission.SET_TIME" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.LOCAL_MAC_ADDRESS" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <uses-permission android:name="android.permission.DUMP" />
+    <uses-permission android:name="android.permission.TRANSMIT_IR" />
+    <uses-permission android:name="android.permission.ACCESS_FM_RADIO" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.camera.flash" />
+    <uses-feature android:name="android.hardware.camera" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <receiver
+            android:name="br.com.positivo.functional_test.MediaButtonUnitTest$MediaButtonBroadcastReceiver"
+            android:priority="1000" >
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="br.com.positivo.functional_test.MainActivity$MyDevicePolicyReceiver"
+            android:label="@string/device_admin_desc"
+            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+            <meta-data
+                android:name="android.app.device_admin"
+                android:resource="@xml/device_policies" />
+
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+                <action android:name="android.app.action.DEVICE_ADMIN_DISABLE_REQUESTED" />
+                <action android:name="android.app.action.DEVICE_ADMIN_DISABLED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="br.com.positivo.functional_test.MainActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.shortcuts"
+                android:resource="@xml/oreo_static_shortcuts" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.AccelerometerUnitTest$AccelTestActivity"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.utils.CameraTestActivity"
+            android:label="@string/title_activity_camera_test"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity"
+            android:screenOrientation="landscape" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.TouchPanelUnitTest$TouchPanelTestActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_touchpanel_test"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.TouchScreenPrecision$TouchPrecisionActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="Teste de Precisão do Touch Screen"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.CieloKeyEventUnitTest$CieloKeyEventActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="Teste do Teclado Cielo V3"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.HDMIUnitTest$HDMITestActivity"
+            android:label="@string/title_activity_activity_hdmi_test"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.DeviceScreenUnitTest$DeviceScreenTestActivity"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.GyroscopeUnitTest$GyroTestActivity"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.BrightnessUnitTest$BrightnessTestActivity"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.HardwareKeysUnitTest$HardwareKeysTestActivity"
+            android:label="@string/title_activity_activity_hardware_keys_test"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.positivo.functional_test.ProjectorUnitTest$ProjectorTestActivity"
+            android:parentActivityName="br.com.positivo.functional_test.MainActivity"
+            android:screenOrientation="landscape" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.positivo.functional_test.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

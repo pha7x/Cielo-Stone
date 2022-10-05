@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">  
+    <shortcut
+    android:enabled="true"
+    android:icon="@drawable/ic_launcher"
+    android:shortcutId="static_normal"
+    android:shortcutShortLabel="@string/app_name">
+    <intent
+      android:action="android.intent.action.ACTION_MAIN"
+      android:targetClass="br.com.positivo.functional_test.MainActivity"
+      android:targetPackage="br.com.positivo.androidtestframework">
+      <extra android:name="MODE" android:value="NORMAL"/>
+    </intent>
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/reparo"
+        android:shortcutId="static_repair"
+        android:shortcutShortLabel="@string/repair_shortcut_name">
+        <intent
+            android:action="android.intent.action.ACTION_MAIN"
+            android:targetClass="br.com.positivo.functional_test.MainActivity"
+            android:targetPackage="br.com.positivo.androidtestframework">
+            <extra android:name="MODE" android:value="REPAIR"/>
+        </intent>
+    </shortcut>
+</shortcuts>

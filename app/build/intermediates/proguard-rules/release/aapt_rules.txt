@@ -1,0 +1,45 @@
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:50
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:93
+-keep class br.com.positivo.functional_test.AccelerometerUnitTest$AccelTestActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:159
+-keep class br.com.positivo.functional_test.BrightnessUnitTest$BrightnessTestActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:128
+-keep class br.com.positivo.functional_test.CieloKeyEventUnitTest$CieloKeyEventActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:145
+-keep class br.com.positivo.functional_test.DeviceScreenUnitTest$DeviceScreenTestActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:152
+-keep class br.com.positivo.functional_test.GyroscopeUnitTest$GyroTestActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:137
+-keep class br.com.positivo.functional_test.HDMIUnitTest$HDMITestActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:166
+-keep class br.com.positivo.functional_test.HardwareKeysUnitTest$HardwareKeysTestActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:78
+-keep class br.com.positivo.functional_test.MainActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:63
+-keep class br.com.positivo.functional_test.MainActivity$MyDevicePolicyReceiver { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:56
+-keep class br.com.positivo.functional_test.MediaButtonUnitTest$MediaButtonBroadcastReceiver { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:174
+-keep class br.com.positivo.functional_test.ProjectorUnitTest$ProjectorTestActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:109
+-keep class br.com.positivo.functional_test.TouchPanelUnitTest$TouchPanelTestActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:119
+-keep class br.com.positivo.functional_test.TouchScreenPrecision$TouchPrecisionActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:100
+-keep class br.com.positivo.utils.CameraTestActivity { <init>(); }
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\res\layout\activity_item_keyevent_text.xml:217
+-keep class br.com.positivo.utils.CieloKeyeventView { <init>(...); }
+
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\res\layout\activity_projector_test.xml:8
+-keep class br.com.positivo.utils.ProjectorTestView { <init>(...); }
+
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\res\layout\activity_touchprecision_test.xml:6
+-keep class br.com.positivo.utils.TouchPrecisionView { <init>(...); }
+
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\res\layout\activity_touchpanel_test.xml:6
+-keep class br.com.positivo.utils.TouchScreenTestView { <init>(...); }
+
+# Referenced at H:\SVN_FILES\ANDROID_COMMIT\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\res\layout\activity_colorbars_test.xml:7
+-keep class br.com.positivo.utils.VideoColorTestView { <init>(...); }
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_action_color_filter">@color/secondary_text_default_material_light</color>
+    <dimen name="notification_content_margin_start">0dp</dimen>
+    <dimen name="notification_main_column_padding_top">0dp</dimen>
+    <dimen name="notification_media_narrow_margin">12dp</dimen>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:windowTitleBackgroundStyle">@style/windowTitleBackgroundStyle</item>
+        <item name="android:navigationBarColor">@color/positivo_color</item>
+        <item name="android:statusBarColor">@color/positivo_color</item>
+        <item name="android:colorPrimary">@color/positivo_color</item>
+        <item name="android:colorPrimaryDark">@color/positivo_color</item>
+        <item name="android:colorAccent">@color/positivo_color</item>
+    </style>
+    <style name="CustomDialogTheme" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+       <item name="android:windowTitleStyle">@style/PositivoDialogWindowTitle</item>
+        <!--<item name="android:windowBackground">@color/white_overlay</item>-->
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+    </style>
+    <style name="CustomTransparentDialogTheme" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:windowTitleStyle">@style/PositivoDialogWindowTitle</item>
+        <item name="android:windowBackground">@color/white_overlay</item>
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+    </style>
+    <style name="FullscreenTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+            <item name="android:windowContentOverlay">@null</item>
+            <item name="android:windowTitleBackgroundStyle">@style/windowTitleBackgroundStyle</item>
+            <item name="android:windowBackground">@null</item>
+            <!--<item name="metaButtonBarStyle">@style/ButtonBar</item>
+            <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>-->
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/>
+    <style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Info.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/>
+    <style name="TextAppearance.Compat.Notification.Time.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+    </style>
+    <style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style>
+    <style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style>
+</resources>

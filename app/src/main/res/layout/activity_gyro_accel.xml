@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_gyro_acel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Suspend" >
+
+    <TextView
+        android:id="@+id/gyroAccelInf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/holdAsImage"
+        android:textSize="@dimen/textoCentral" />
+    
+    <TextView
+        android:id="@+id/Coordinates"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/gyroAccelInf"
+        android:textColor="@android:color/black"
+        android:gravity="center_horizontal" />
+
+</RelativeLayout>

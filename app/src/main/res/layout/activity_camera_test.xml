@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+              android:layout_height="fill_parent" android:orientation="vertical"
+    tools:context="br.com.positivo.utils.CameraTestActivity" android:weightSum="1.0"
+              android:theme="@style/FullscreenTheme" >
+
+    <FrameLayout
+            android:id="@+id/camera_preview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="top"
+            android:layout_above="@+id/ok"
+            android:layout_toEndOf="@id/camera_preview"
+        android:layout_weight="0.15"/>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    xmlns:tools="http://schemas.android.com/tools"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.85"
+        >
+
+        <Button
+            android:text="  OK  "
+            android:id="@+id/ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|left"
+            android:visibility="invisible"
+            android:layout_centerInParent="true"
+            android:layout_alignParentStart="true"/>
+
+        <Button
+            android:text="Falhar"
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right"
+            android:layout_alignParentEnd="true"
+            android:visibility="invisible"
+            android:layout_alignParentStart="false"
+            android:layout_centerInParent="true"/>
+
+        <TextView android:text="Mostre cor VERMELHA"
+                  android:id="@+id/textView"
+                  android:textSize="@dimen/textoCentral"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:gravity="center_vertical|center_horizontal"
+            />
+
+    </RelativeLayout>
+</LinearLayout>

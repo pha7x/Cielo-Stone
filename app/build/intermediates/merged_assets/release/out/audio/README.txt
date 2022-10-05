@@ -1,0 +1,1 @@
+Os arquivos com sufixo L (somente canal left), devem ser mono. Se for stereo com o canal right zerado, não sai áudio no earpiece (receiver).

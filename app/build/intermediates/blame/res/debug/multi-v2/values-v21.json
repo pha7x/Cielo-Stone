@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "A:\\dumps\\android\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\XEnterpriseX\\.gradle\\caches\\transforms-2\\files-2.1\\599f9194c5d7dcdca56c0c48892f3fc9\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,33,34,41,45,49,52",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,2341,2457,2914,3208,3503,3675",
+                        "endLines": "2,3,4,5,33,34,41,45,51,56",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,2452,2578,3035,3331,3670,4008"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\XEnterpriseX\\.gradle\\caches\\transforms-2\\files-2.1\\4da92fe915cc806ae57588e0d4ab0271\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "35,38,42,46",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2583,2751,3040,3336",
+                        "endLines": "37,40,44,48",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "2746,2909,3203,3498"
+                    }
+                },
+                {
+                    "source": "A:\\dumps\\android\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "11,20,27,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "559,1136,1606,59",
+                        "endLines": "18,25,32,9",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1128,1598,2073,551"
+                    },
+                    "to": {
+                        "startLines": "6,14,20,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "354,921,1383,1850",
+                        "endLines": "13,19,25,32",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "916,1378,1845,2336"
+                    }
+                }
+            ]
+        }
+    ]
+}

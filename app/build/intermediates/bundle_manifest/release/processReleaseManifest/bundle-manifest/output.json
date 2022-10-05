@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":51,"versionName":"6.0.cielo","enabled":true,"outputFile":"PositivoAOSPTests-release.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"br.com.positivo.androidtestframework","split":"","minSdkVersion":"17"}}]

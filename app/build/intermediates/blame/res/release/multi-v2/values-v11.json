@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "H:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "7,20,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "223,918,463",
+                        "endLines": "10,22,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "455,1108,910"
+                    },
+                    "to": {
+                        "startLines": "2,6,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,289,482",
+                        "endLines": "5,8,15",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "284,477,923"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <color name="white_overlay">#CCFFFFFF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="positivo_color">#514689</color>
+    <color name="led_color">#00ff00</color>
+    <color name="saffron_yellow">#C4754E</color>
+    <color name="key_test_color">#0000ff</color>
+    <color name="test_item_highlight_color">#FF80CBC4</color>
+    <color name="button_disabled">#A9A9A9</color>
+    <color name="button_default">#707070</color>
+</resources>

@@ -1,0 +1,435 @@
+-- Merging decision tree log ---
+manifest
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:2:1-179:12
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:2:1-179:12
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:2:1-179:12
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:2:1-179:12
+MERGED from [:openCVLibrary341] A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\openCVLibrary341\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\a8273f80dbab2eb608d4f404151b28ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\4da92fe915cc806ae57588e0d4ab0271\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\55bf9aaed87053e3dd9ee3ec26d241a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\b36945c3eaeaee2d82ee7d84079a2b2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\edebcd219ecddf432a49d4aec2d80f3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\f6cc8bdf0f613d13c37e241acc8dab6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\315eca0b95527455d3219df244273632\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\2ae248891106b6eee88a1ac58e99b398\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\0b11240e6ed5ef82f59fa7c87b9c6c8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\7c1bab49abf623b7b99dd2c500f35170\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\8ede7b941977cbbdcea1b8095f3f95d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\a1012590237f1baaff8be63d7edc97d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\1b225eddd9250a3c0bf6a246e9a83c73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\599f9194c5d7dcdca56c0c48892f3fc9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\5b55433f5b0869a7cb6c7f668dd7b345\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\e78660b30e83f880032702f1d90ff134\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\a987dc8453e429b5b0e5e5a188ff0a17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\f25ab41a599126420393978b2e2a112e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\5b28039dd8ebb4c50a9cafeea46f8c0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\7b30f2c0f196f529f5f0efabc7922e06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\45ff20ce69ec1c4779c76b350f58d0b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\bc8262e87a6b9e43c9aba4959785c29d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\b629f0309073c4450348bec846b3f095\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\3b43f95bad79021adaeab1e448ca3e17\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\277901a6045b494c6f15cde5eabcb3dd\AndroidManifest.xml:17:1-22:12
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:2:1-179:12
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:2:1-179:12
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:2:1-179:12
+	package
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:5:5-36
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+	android:launchMode
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:6:5-40
+	xmlns:android
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+uses-permission#android.perm ission.WRITE_EXTERNAL_STORAGE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:9:5-82
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:9:22-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.INTERNET
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.CAMERA
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:19:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:20:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:23:22-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:26:5-88
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:26:22-86
+uses-permission#android.permission.VIBRATE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:27:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:28:5-72
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:28:22-70
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:29:22-77
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:30:22-74
+uses-permission#android.permission.HARDWARE_TEST
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:31:22-69
+uses-permission#android.permission.FACTORY_TEST
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:32:5-71
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:32:22-68
+uses-permission#android.permission.SET_TIME
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:33:22-64
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:34:5-88
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:34:22-85
+uses-permission#android.permission.LOCAL_MAC_ADDRESS
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:35:22-73
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:36:5-74
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:36:22-71
+uses-permission#android.permission.DUMP
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:37:5-63
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:37:22-60
+uses-permission#android.permission.TRANSMIT_IR
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:38:5-70
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:38:22-67
+uses-permission#android.permission.ACCESS_FM_RADIO
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:39:22-71
+uses-permission#android.permission.CALL_PHONE
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:40:5-69
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:40:22-66
+uses-feature#android.hardware.camera.autofocus
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:41:5-69
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:41:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:42:5-66
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:42:19-63
+uses-feature#android.hardware.camera
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:43:5-60
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:43:19-57
+application
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:45:5-177:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\599f9194c5d7dcdca56c0c48892f3fc9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\599f9194c5d7dcdca56c0c48892f3fc9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\5b55433f5b0869a7cb6c7f668dd7b345\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\5b55433f5b0869a7cb6c7f668dd7b345\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\599f9194c5d7dcdca56c0c48892f3fc9\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:48:9-41
+	android:icon
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:47:9-45
+	android:allowBackup
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:46:9-35
+	android:theme
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:49:9-40
+receiver#br.com.positivo.functional_test.MediaButtonUnitTest$MediaButtonBroadcastReceiver
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:51:9-57:20
+	android:priority
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:52:13-108
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:54:13-56:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:55:25-74
+receiver#br.com.positivo.functional_test.MainActivity$MyDevicePolicyReceiver
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:58:9-71:20
+	android:label
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:60:13-54
+	android:permission
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:61:13-70
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:59:13-95
+meta-data#android.app.device_admin
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:62:13-64:59
+	android:resource
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:64:17-56
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:63:17-56
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_DISABLED+action:name:android.app.action.DEVICE_ADMIN_DISABLE_REQUESTED+action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:66:13-70:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:67:17-82
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:67:25-79
+action#android.app.action.DEVICE_ADMIN_DISABLE_REQUESTED
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:68:17-92
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:68:25-89
+action#android.app.action.DEVICE_ADMIN_DISABLED
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:69:17-83
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:69:25-80
+activity#br.com.positivo.functional_test.MainActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:73:9-85:20
+	android:label
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:76:13-45
+	android:configChanges
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:75:13-83
+	android:theme
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:77:13-44
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:74:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:78:13-81:29
+action#android.intent.action.MAIN
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:79:17-69
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:79:25-66
+category#android.intent.category.LAUNCHER
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:80:27-74
+meta-data#android.app.shortcuts
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:82:13-84:65
+	android:resource
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:84:17-62
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:83:17-53
+activity#br.com.positivo.functional_test.AccelerometerUnitTest$AccelTestActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:87:9-92:20
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:88:19-92
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:87:19-105
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:89:13-91:80
+	android:value
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:91:17-77
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:90:17-63
+activity#br.com.positivo.utils.CameraTestActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:93:9-101:20
+	android:screenOrientation
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:95:13-50
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:96:13-86
+	android:label
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:97:13-63
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:94:13-68
+activity#br.com.positivo.functional_test.TouchPanelUnitTest$TouchPanelTestActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:102:9-111:20
+	android:screenOrientation
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:106:13-49
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:104:13-86
+	android:label
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:107:13-67
+	android:configChanges
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:105:13-74
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:103:13-101
+activity#br.com.positivo.functional_test.TouchScreenPrecision$TouchPrecisionActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:112:9-120:20
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:114:13-86
+	android:label
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:116:13-62
+	android:configChanges
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:115:13-74
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:113:13-103
+activity#br.com.positivo.functional_test.CieloKeyEventUnitTest$CieloKeyEventActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:121:9-129:20
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:123:13-86
+	android:label
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:125:13-54
+	android:configChanges
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:124:13-74
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:122:13-103
+activity#br.com.positivo.functional_test.HDMIUnitTest$HDMITestActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:130:9-137:20
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:133:13-86
+	android:label
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:132:13-70
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:131:13-89
+activity#br.com.positivo.functional_test.DeviceScreenUnitTest$DeviceScreenTestActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:138:9-144:20
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:140:13-86
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:139:13-105
+activity#br.com.positivo.functional_test.GyroscopeUnitTest$GyroTestActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:145:9-151:20
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:147:13-86
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:146:13-94
+activity#br.com.positivo.functional_test.BrightnessUnitTest$BrightnessTestActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:152:9-158:20
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:154:13-86
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:153:13-101
+activity#br.com.positivo.functional_test.HardwareKeysUnitTest$HardwareKeysTestActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:160:9-167:20
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:163:13-86
+	android:label
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:162:13-79
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:161:13-105
+activity#br.com.positivo.functional_test.ProjectorUnitTest$ProjectorTestActivity
+ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:169:9-176:20
+	android:screenOrientation
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:171:13-50
+	android:parentActivityName
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:172:13-86
+	android:name
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml:170:13-99
+uses-sdk
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+MERGED from [:openCVLibrary341] A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\openCVLibrary341\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary341] A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\openCVLibrary341\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\a8273f80dbab2eb608d4f404151b28ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\a8273f80dbab2eb608d4f404151b28ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\4da92fe915cc806ae57588e0d4ab0271\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\4da92fe915cc806ae57588e0d4ab0271\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\55bf9aaed87053e3dd9ee3ec26d241a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\55bf9aaed87053e3dd9ee3ec26d241a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\b36945c3eaeaee2d82ee7d84079a2b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\b36945c3eaeaee2d82ee7d84079a2b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\edebcd219ecddf432a49d4aec2d80f3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\edebcd219ecddf432a49d4aec2d80f3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\f6cc8bdf0f613d13c37e241acc8dab6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\f6cc8bdf0f613d13c37e241acc8dab6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\315eca0b95527455d3219df244273632\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\315eca0b95527455d3219df244273632\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\2ae248891106b6eee88a1ac58e99b398\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\2ae248891106b6eee88a1ac58e99b398\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\0b11240e6ed5ef82f59fa7c87b9c6c8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\0b11240e6ed5ef82f59fa7c87b9c6c8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\7c1bab49abf623b7b99dd2c500f35170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\7c1bab49abf623b7b99dd2c500f35170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\8ede7b941977cbbdcea1b8095f3f95d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\8ede7b941977cbbdcea1b8095f3f95d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\a1012590237f1baaff8be63d7edc97d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\a1012590237f1baaff8be63d7edc97d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\1b225eddd9250a3c0bf6a246e9a83c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\1b225eddd9250a3c0bf6a246e9a83c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\599f9194c5d7dcdca56c0c48892f3fc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\599f9194c5d7dcdca56c0c48892f3fc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\5b55433f5b0869a7cb6c7f668dd7b345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\5b55433f5b0869a7cb6c7f668dd7b345\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\e78660b30e83f880032702f1d90ff134\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\e78660b30e83f880032702f1d90ff134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\a987dc8453e429b5b0e5e5a188ff0a17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\a987dc8453e429b5b0e5e5a188ff0a17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\f25ab41a599126420393978b2e2a112e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\f25ab41a599126420393978b2e2a112e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\5b28039dd8ebb4c50a9cafeea46f8c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\5b28039dd8ebb4c50a9cafeea46f8c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\7b30f2c0f196f529f5f0efabc7922e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\7b30f2c0f196f529f5f0efabc7922e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\45ff20ce69ec1c4779c76b350f58d0b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\45ff20ce69ec1c4779c76b350f58d0b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\bc8262e87a6b9e43c9aba4959785c29d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\bc8262e87a6b9e43c9aba4959785c29d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\b629f0309073c4450348bec846b3f095\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\b629f0309073c4450348bec846b3f095\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\3b43f95bad79021adaeab1e448ca3e17\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\3b43f95bad79021adaeab1e448ca3e17\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\277901a6045b494c6f15cde5eabcb3dd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\XEnterpriseX\.gradle\caches\transforms-2\files-2.1\277901a6045b494c6f15cde5eabcb3dd\AndroidManifest.xml:20:5-44
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+		ADDED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml
+		INJECTED from A:\dumps\android\ANDROID_CIELO_STONE\TestFrameworkSrc\app\src\main\AndroidManifest.xml

@@ -1,0 +1,39 @@
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in ${sdkDir}/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the proguardFiles
+# directive in build.gradle.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Add any project specific keep options here:
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+-keep public class br.com.positivo.functional_test.** {*;}
+-keepclassmembers class br.com.positivo.functional_test.* {*; }
+-keep public class br.com.positivo.framework.** {*;}
+-keepclassmembers class br.com.positivo.framework.* {*; }
+-keep public class org.xmlpull.v1.** {*;}
+-keep public class org.ksoap2.serialization.SoapObject
+-keepclassmembers class org.xmlpull.v1.** {*; }
+-keep public class com.mediatek.telephony.TelephonyManagerEx {*;}
+-keepclassmembers class com.mediatek.telephony.TelephonyManagerEx.** {*; }
+-keepclassmembers class com.android.fmradio.** {*; }
+
+-keep public class * extends br.com.positivo.framework.TestActivity
+-keep public class * extends br.com.positivo.framework.TestFragmentActivity
+-keep public class * extends android.app.Activity
+-keep public class * extends android.app.Application
+-keep public class * extends android.app.Service
+-keep public class * extends android.content.BroadcastReceiver
+-keep public class * extends android.content.ContentProvider
+-keep public class * extends android.app.backup.BackupAgentHelper
+-keep public class * extends android.preference.Preference
+
+-dontwarn com.opencsv.**
+-dontwarn org.xmlpull.v1.**
+-dontwarn br.com.positivo.framework.**
+-dontwarn br.com.positivo.functional_test.**

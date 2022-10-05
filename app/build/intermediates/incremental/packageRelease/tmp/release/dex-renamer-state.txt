@@ -1,0 +1,4 @@
+#Fri Jan 07 13:34:43 BOT 2022
+base.0=H\:\\SVN_FILES\\ANDROID_COMMIT\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\transforms\\r8\\release\\0
+renamed.0=classes.dex
+path.0=classes.dex

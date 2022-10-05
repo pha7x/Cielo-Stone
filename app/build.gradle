@@ -1,0 +1,64 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        release {
+            keyAlias 'fabrica'
+            keyPassword 'bebjinwemZolyusInCiax'
+            storeFile file('../keystore/plataform.jks')
+            storePassword 'bebjinwemZolyusInCiax'
+        }
+    }
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+    defaultConfig {
+        applicationId "br.com.positivo.androidtestframework"
+        minSdkVersion 17
+        targetSdkVersion 24
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.txt'
+            debuggable false
+            project.ext.set("archivesBaseName", "PositivoAOSPTests")
+
+            /*applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    project.ext { appName = 'PositivoAOSPTests' }
+                    def newName = output.outputFile.name
+                    newName = newName.replace("app", "$project.ext.appName")
+                    output.outputFile = new File(output.outputFile.parent, newName)
+                }
+            }*/
+        }
+        debug {
+            minifyEnabled false
+            proguardFile 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+
+dependencies {
+    implementation files('libs/ksoap2-android-assembly-3.1.1-jar-with-dependencies.jar')
+    implementation files('libs/mediatek-android.jar')
+    implementation project(':openCVLibrary341')
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation files('libs/opencsv-3.8.jar')
+    implementation files('libs/sdk.jar')
+
+}

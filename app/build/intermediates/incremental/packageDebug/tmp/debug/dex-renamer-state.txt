@@ -1,0 +1,4 @@
+#Sat Sep 17 13:40:33 BOT 2022
+base.0=A\:\\dumps\\android\\ANDROID_CIELO_STONE\\TestFrameworkSrc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
